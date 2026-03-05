@@ -1,2 +1,2 @@
-# cos_project_2026
+# cos-project
 EL2001 project. Computer organization and systems.
